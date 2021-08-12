@@ -1,0 +1,30 @@
+body {
+	font-family: 'Nunito';
+}
+
+#head {
+	background-color: #3fe0d0;
+}
+
+.content {
+	text-align: center;
+	padding: 7% 15%;
+	font-size: 1.25rem;
+}
+
+.feature-title {
+	font-size: 1rem;
+	font-family: 'Nunito';
+	font-weight: 500;
+}
+.feature div {
+	color: #959595;
+}
+.icons {
+	padding: 5% 5%;
+	color: #80abe4;
+}
+
+.icons:hover {
+	color: turquoise;
+}
